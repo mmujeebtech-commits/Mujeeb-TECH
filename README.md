@@ -10,7 +10,7 @@
 ## 🔧 Skills
 - Python (Beginner → Intermediate)  
 - HTML, CSS, JavaScript (Learning)  
-- Git & GitHub  
+- Git & GitHub   
 
 ---
 
